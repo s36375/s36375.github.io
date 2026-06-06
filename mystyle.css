@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to bottom, #7c3102, #f6cd00);
+}
+p {
+    color: #fffbcc;
+    background-color: #210d02;
+    font-family: 'Nova Cut','Times New Roman', 'serif';
+}
+h1 {
+    font-family: 'Pirata One','Helvetica', 'serif';
+    color: #fffbcc;
+    background-color: #082700;
+}
