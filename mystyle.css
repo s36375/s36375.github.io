@@ -4,8 +4,9 @@ body {
 }
 p {
     color: #ffffff;
-    background-color: #007752;
+    background-color: #2b0139;
     font-family: 'Nova Cut','Times New Roman', 'serif';
+    border: 2px dotted #00a960;
 }
 h1 {
     font-family: 'Pirata One','Helvetica', 'serif';
