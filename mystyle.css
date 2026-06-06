@@ -3,12 +3,12 @@ body {
     background-image: linear-gradient(to bottom, #000000, #e77aff);
 }
 p {
-    color: #fffbcc;
-    background-color: #9501c6;
+    color: #ffffff;
+    background-color: #2b0139;
     font-family: 'Nova Cut','Times New Roman', 'serif';
 }
 h1 {
     font-family: 'Pirata One','Helvetica', 'serif';
-    color: #fffbcc;
+    color: #ffffff;
     background-color: #690303;
 }
