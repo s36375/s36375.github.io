@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-image: linear-gradient(to bottom right, #000000, #e77aff);
+    background-image: linear-gradient(to top, #000000, #e77aff);
 }
 p {
     color: #ffffff;
@@ -10,5 +10,5 @@ p {
 h1 {
     font-family: 'Pirata One','Helvetica', 'serif';
     color: #ffffff;
-    background-color: #690303;
+    background-color: #000000;
 }
