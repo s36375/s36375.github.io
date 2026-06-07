@@ -7,12 +7,19 @@ p {
     background-color: #2b0139;
     font-family: 'Nova Cut','Times New Roman', 'serif';
     border: 2px dotted #00a960;
-}
+    }
 h1 {
     font-family: 'Pirata One','Helvetica', 'serif';
     font-size: 70px;
     color: #ffffff;
     background-color: #000000;
+}
+footer {
+    font-family: 'Pirata One','Times New Roman', 'serif';
+    font-size: 40px
+    color: #ffffff;
+    background-color: #00a960;
+    height: 50px;
 }
 img {
     width: 100%; height: auto;
