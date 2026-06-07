@@ -19,6 +19,7 @@ p {
     color: #ffffff;
     background-color: #2b0139;
     font-family: 'Nova Cut','Times New Roman', 'serif';
+    font-size: 30px;
     border: 2px dotted #03fb8f;
     word-wrap: break-word;
     max-width: 650px;
@@ -68,6 +69,6 @@ a {
     color: #ff0000;
         font-family: 'Pirata One','Times New Roman', 'serif';
         text-decoration: underline;
-    font-size: auto;
+    font-size: 40px;
     background-color: #000000;
 }
