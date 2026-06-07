@@ -8,7 +8,7 @@ p {
     font-family: 'Nova Cut','Times New Roman', 'serif';
     border: 2px dotted #03fb8f;
     word-wrap: break-word;
-    fit-content: width: 500px;
+    max-width: 475px;
     height: auto;
     }
  h1 {
@@ -57,5 +57,4 @@ a {
         text-decoration: underline;
     font-size: auto;
     background-color: #000000;
-    target: _blank;
 }
