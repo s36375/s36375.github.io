@@ -7,6 +7,9 @@ p {
     background-color: #2b0139;
     font-family: 'Nova Cut','Times New Roman', 'serif';
     border: 2px dotted #03fb8f;
+    word-wrap: break-word;
+    fit-content: width: 500px;
+    height: auto;
     }
  h1 {
     font-family: 'Pirata One','Helvetica', 'serif';
@@ -30,22 +33,23 @@ footer {
     height: 50px;
 }
 img {
-    width: 50%; height: auto;
-    class= "center";
+    width: 60%; height: auto;
 }
 img.float-right {
-    width: 30%; height: auto;
+    width: 15%; height: auto;
     class= "float-right";
 }
 button {
     background-color: #ff0000;
     color: #88f4c3;
     font-family: 'Pirata One','Times New Roman', 'serif';
+    font-size: 25px;
         padding: 10px 20px;
     cursor: pointer;
-    button:hover {
-        background-color: #9a0000;
+    size: width: 400px; height: 100px;
     }
+   button:hover {
+        background-color: #9a0000;
 }
 a {
     color: #ff0000;
