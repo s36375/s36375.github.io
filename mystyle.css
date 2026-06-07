@@ -34,7 +34,7 @@ img {
     class= "center";
 }
 img.float-right {
-    width: 0%; height: auto;
+    width: 100%; height: auto;
     class= "float-right";
 }
 button {
