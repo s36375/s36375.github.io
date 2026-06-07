@@ -40,11 +40,11 @@ h2 {
     }
 footer {
     font-family: 'Pirata One','Times New Roman', 'serif';
-    font-size: 40px
+    font-size: 50px
     text-align: bottom;
     color: #000000;
     background-color: #03fb8f;
-    height: 50px;
+    height: 40px;
 }
 img {
     width: 60%; height: auto;
