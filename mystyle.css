@@ -39,11 +39,10 @@ img.float-right {
 }
 button {
     background-color: #ff0000;
-    color: #ffffff;
+    color: #88f4c3;
     font-family: 'Pirata One','Times New Roman', 'serif';
         padding: 10px 20px;
     cursor: pointer;
-    
     button:hover {
         background-color: #9a0000;
     }
