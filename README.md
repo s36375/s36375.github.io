@@ -1,1 +1,1 @@
-# s36375.github.io
+# s36375.pja.github.io
